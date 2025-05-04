@@ -1,0 +1,11 @@
+tr[class~="patch_token_counter_75HL"].patch_token_counter_75HL {
+  color: red;
+}
+
+.patch_token_counter_p, .patch_token_counter_n {
+  position: absolute;
+  font-size: 10px;
+  background-color: black;
+  height: 200px;
+  overflow-y: scroll;
+}
